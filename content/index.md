@@ -1,13 +1,12 @@
-# Hey, I'm Everaldo 👋
+---
+title: Brain Dump
+description: 
+draft: "true"
+---
 
-Welcome to my braindump
-
+Hey,  I'm Everaldo 👋 
 Check my:
-
 [LinkedIn](https://www.linkedin.com/in/everaldojuniorklawa/) • [Twitter](https://twitter.com/Everelindo) • [Github](https://github.com/juniorklawa) 
-
-
-
 
 # Last Posts
 
