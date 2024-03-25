@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Some thoughts about Software Complexity.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Some thoughts about Software Complexity.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Some thoughts about Software Complexity.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Some thoughts about Software Complexity.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c726593a524dca4e",
   "lastOpenFiles": [
-    "content/index.md",
     "content/Some thoughts about Software Complexity.md",
+    "content/index.md",
     "templates/Note Template.md",
     "templates",
     "content/Some thoughts about complexity.md"

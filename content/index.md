@@ -1,7 +1,3 @@
----
-title: Brain Dump
-description: This is my brain overflow
----
 # Hey, I'm Everaldo 👋
 
 Welcome to my braindump
