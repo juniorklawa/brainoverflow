@@ -1,9 +1,9 @@
 ---
 title: Brain Dump
-description: This is my brain overflow
+description: This is my braindump
 ---
 
-Hey I'm Everaldo 👋 and welcome to my braindump
+Hey I'm Everaldo 👋 and welcome to my braindump.
 
 Check my:
 
