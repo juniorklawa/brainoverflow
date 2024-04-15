@@ -10,7 +10,24 @@ Check my:
 [LinkedIn](https://www.linkedin.com/in/everaldojuniorklawa/) • [Twitter](https://twitter.com/Everelindo) • [Github](https://github.com/juniorklawa) 
 
 
-# Last Posts
+# Projects
+
+## codict
+
+Lorem ipsum
+## revisapp
+
+Lorem ipsum
+
+## revisapp concursos
+
+Lorem ipsum
+
+# interview pal
+
+Lorem ipsum
+
+# Recent Posts
 
 - [[Some thoughts about Software Complexity]]
 

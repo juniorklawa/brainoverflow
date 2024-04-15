@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e94a7d4ac367ebec",
+    "id": "d865715240be5cfd",
     "type": "split",
     "children": [
       {
-        "id": "b4ec6055cc2117d0",
+        "id": "bcb621c2eb814d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c726593a524dca4e",
+            "id": "1fac11f52d611007",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e11623f057c03dc",
+    "id": "6abb79feeb8c16e6",
     "type": "split",
     "children": [
       {
-        "id": "ccf5e2da4ee66348",
+        "id": "bc0fa98f7a545b2f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c394bedc6dd660",
+            "id": "7ddca082d1092932",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e470fb800413c784",
+            "id": "12e7f566b8e770be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "05108ce0cb8e1f2d",
+            "id": "b895341a03f7b2dd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "89ad971ad4249fa2",
+    "id": "2000bcf77555318a",
     "type": "split",
     "children": [
       {
-        "id": "e8063d310be61328",
+        "id": "46d91f83f7c513da",
         "type": "tabs",
         "children": [
           {
-            "id": "10c97702737db371",
+            "id": "2e081f2a108a28e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "391b84a44cf6ee14",
+            "id": "fcee55dd06fb7d74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "b7822cd85ad58201",
+            "id": "32fdfe1639d72c21",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "0248de96100f4067",
+            "id": "264a9318e675fe9f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,16 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c726593a524dca4e",
+  "active": "1fac11f52d611007",
   "lastOpenFiles": [
-    "content/posts/Some thoughts about Software Complexity.md",
-    "content/posts",
-    "content/Some thoughts about Software Complexity.md",
-    "content/index.md",
-    "quartz/static/icon.png",
-    "quartz/static/icon copy.png",
+    "content/One thing or two about Software Complexity.md",
     "templates/Note Template.md",
     "templates",
-    "content/Some thoughts about complexity.md"
+    "content/posts/Some thoughts about Software Complexity.md",
+    "content/posts",
+    "content/Some thoughts about complexity.md",
+    "content/index.md",
+    "public/404.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/index.html",
+    "public/Some-thoughts-about-complexity.html",
+    "public/prescript.js",
+    "content/complexity.md",
+    "docs/showcase.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md"
   ]
 }
