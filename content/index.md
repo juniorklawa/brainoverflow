@@ -3,7 +3,7 @@ title: Brain Dump
 description: This is my braindump
 ---
 
-Hey I'm Everaldo 👋 and welcome to my braindump.
+Hey I'm Everaldo 👋. Welcome to Brainoverflow
 
 Check my:
 
@@ -12,5 +12,15 @@ Check my:
 # Recent Posts
 
 - [[Some thoughts about Software Complexity]]
+
+# Projects
+
+- [[Interview Bro]]
+- [[Codict]]
+- [[RevisApp - Enem e Vestibular]]
+- [[RevisApp Concursos]]
+- [[BrainOverflow|This Blog]]
+
+
 
 
