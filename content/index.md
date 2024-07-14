@@ -15,8 +15,6 @@ Check my:
 
 # Projects
 
-## Active
-
 - [[Interview Bro]]
 - [[Codict]]
 - [[RevisApp - Enem e Vestibular]]
