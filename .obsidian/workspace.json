@@ -158,11 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c726593a524dca4e",
+  "active": "f8c394bedc6dd660",
   "lastOpenFiles": [
+    "content/other",
+    "content/Untitled.md",
+    "public/Untitled.html",
+    "content/index.md",
+    "public/Inactive-Projects.html",
+    "content/other/Inactive Projects.md",
+    "public/projects/Strackify.html",
     "content/projects/Strackify.md",
     "content/projects/Marksync.md",
-    "content/index.md",
     "public/projects/Untitled.html"
   ]
 }

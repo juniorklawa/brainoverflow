@@ -1,9 +1,9 @@
 ---
-title: Brain Dump
-description: This is my braindump
+title: Brain Overflow
+description: This is my brain dump.
 ---
 
-Hey I'm Everaldo 👋. Welcome to Brainoverflow
+Hi, I'm Everaldo and this is my brain dump.
 
 Check my:
 
@@ -23,21 +23,5 @@ Check my:
 - [[RevisApp Concursos]]
 - [[BrainOverflow|This Blog]]
 
-## Inactive
+if you want to see a list of my ~~failed~~ active projects, click [[Inactive Projects|here]]
 
-- [[Strackify]]
-- [[Localdemy]]
-- [[dumonbot]]
-- [[doggo bot]]
-- [[react-native-auto-size-text]]
-- [[Trashfy]]
-- [[Nicks for CS:GO]]
-- [[Revisa Detran]]
-- [[Click to Corrupt]]
-- [[Cube Life]]
-- [[My Awesome Idea]]
-- [[Holy Check]]
-- [[Revisa Quiz]]
-- [[Gerador de Horóscopo]]
-- [[DADGAD Chords]]
-- [[MarkSync]]

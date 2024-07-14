@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Brain Dump",
+    pageTitle: "Brain Overflow",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

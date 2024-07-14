@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Brain Dump</title>
+      <title>Brain Overflow</title>
       <link>https://everal.dev</link>
-      <description>Last 10 notes on Brain Dump</description>
+      <description>Last 10 notes on Brain Overflow</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Strackify</title>
+    <link>https://everal.dev/projects/Strackify</link>
+    <guid>https://everal.dev/projects/Strackify</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:38:54 GMT</pubDate>
+  </item><item>
     <title>Interview Bro</title>
     <link>https://everal.dev/projects/Interview-Bro</link>
     <guid>https://everal.dev/projects/Interview-Bro</guid>
@@ -30,10 +36,10 @@
     <description></description>
     <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
   </item><item>
-    <title>Brain Dump</title>
+    <title>Brain Overflow</title>
     <link>https://everal.dev/</link>
     <guid>https://everal.dev/</guid>
-    <description>This is my braindump.</description>
+    <description>This is my brain dump.</description>
     <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
   </item><item>
     <title>BrainOverflow</title>
