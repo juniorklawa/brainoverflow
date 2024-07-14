@@ -1,5 +1,3 @@
-## Inactive
-
 - [[Strackify]]
 - [[Localdemy]]
 - [[dumonbot]]
