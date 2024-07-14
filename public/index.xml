@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Brain Dump</title>
+      <link>https://everal.dev</link>
+      <description>Last 10 notes on Brain Dump</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Interview Bro</title>
+    <link>https://everal.dev/projects/Interview-Bro</link>
+    <guid>https://everal.dev/projects/Interview-Bro</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>Marksync</title>
+    <link>https://everal.dev/projects/Marksync</link>
+    <guid>https://everal.dev/projects/Marksync</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>RevisApp - Enem e Vestibular</title>
+    <link>https://everal.dev/projects/RevisApp---Enem-e-Vestibular</link>
+    <guid>https://everal.dev/projects/RevisApp---Enem-e-Vestibular</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>RevisApp Concursos</title>
+    <link>https://everal.dev/projects/RevisApp-Concursos</link>
+    <guid>https://everal.dev/projects/RevisApp-Concursos</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>Brain Dump</title>
+    <link>https://everal.dev/</link>
+    <guid>https://everal.dev/</guid>
+    <description>This is my braindump.</description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>BrainOverflow</title>
+    <link>https://everal.dev/projects/BrainOverflow</link>
+    <guid>https://everal.dev/projects/BrainOverflow</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>Codict</title>
+    <link>https://everal.dev/projects/Codict</link>
+    <guid>https://everal.dev/projects/Codict</guid>
+    <description></description>
+    <pubDate>Sat, 13 Jul 2024 20:34:59 GMT</pubDate>
+  </item><item>
+    <title>Some thoughts about Software Complexity</title>
+    <link>https://everal.dev/posts/Some-thoughts-about-Software-Complexity</link>
+    <guid>https://everal.dev/posts/Some-thoughts-about-Software-Complexity</guid>
+    <description>Just checking how Quartz works, i’ll write something here in the near future….</description>
+    <pubDate>Mon, 25 Mar 2024 19:53:20 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/projects/Marksync.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,6 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c5712c1127277cb",
-  "lastOpenFiles": []
+  "active": "c726593a524dca4e",
+  "lastOpenFiles": [
+    "content/projects/Strackify.md",
+    "content/projects/Marksync.md",
+    "content/index.md",
+    "public/projects/Untitled.html"
+  ]
 }
