@@ -21,5 +21,4 @@ Check my:
 - [[RevisApp Concursos]]
 - [[BrainOverflow|This Blog]]
 
-if you want to see a list of my ~~failed~~ active projects, click [[Inactive Projects|here]]
-
+if you want to see a list of my ~~failed~~ inactive projects, click [[Inactive Projects|here]]
