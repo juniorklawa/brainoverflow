@@ -7,7 +7,7 @@ The book "A Philosophy of Software Design" defines complexity practically:
 
 > "Complexity is anything related to the structure of a software system that makes it hard to understand and modify."
 
-In other words, complexity can take many forms, and doesnt necessary has anything to do with performance, your code can be performant and still be complex
+In other words, complexity can take many forms, and doesn't necessary has anything to do with performance, your code can be performant and still be complex
 
 I'd like to share some key definitions and insights from the book in this article. But first, let's imagine a common situation that probably you’ve already been to…
 
@@ -100,6 +100,12 @@ Dependencies are essential in software and cannot be completely eliminated. They
 
 > A dependency exists when code cannot be understood or modified in isolation, requiring consideration or modification of related code.
 
+#### Types of Dependencies:
+
+- **Direct:** Module A directly relies on Module B.
+- **Transitive:** Module A relies on Module B, which relies on Module C.
+- **Cyclic:** Modules A, B, and C are interdependent in a circular manner.
+
 ### 2. Obscurity
 
 Obscurity occurs when important information is not obvious. This can make the codebase hard to understand, leading to increased cognitive load and the risk of unknown unknowns.
@@ -108,6 +114,12 @@ Obscurity occurs when important information is not obvious. This can make the co
 
 > Obscurity occurs when important information is not obvious.
 
+####  Examples of Obscurity:
+
+- **Poor Naming:** Variables and functions with unclear names.
+- **Hidden Side Effects:** Methods that perform unexpected actions.
+- **Global State:** Overuse of global variables.
+- **Deep Inheritance:** Behavior spread across many levels in class hierarchies.
 
 ## Remember: Complexity is Incremental
 
@@ -119,12 +131,14 @@ Because it is incremental, it's easy to think, "just this once, it won't matter.
 > “Everything is a tradeoff in software engineering.”
 > — I don't remember the author
 
-# Conclusion
+## Conclusion
 
-I could  write a lot of rules, stratategies and frameworks and  that you priobably already saw in the intenert on hjow to avoid complexity: SOLID, Design Patterns, Yagni, KISS etc etc
+I could write a lot of rules, strategies, and frameworks that you probably already saw on the internet on how to avoid complexity: SOLID, Design Patterns, YAGNI, KISS, etc.
 
 However, you can unify them all into one guiding principle (as mentioned in "The Pragmatic Programmer."):  **"Is what I am implementing easy to change?"** If the answer is no, then you are probably increasing complexity. 
 
-Ensuring that your code is easy to change not only simplifies maintenance but also reduces the cognitive load on developers, making the system more adaptable and less error-prone over time.
+Ensuring your code is easy to change simplifies maintenance, reduces cognitive load on developers, and makes the system more adaptable and less error-prone.
+
+Thank You!
 
 
