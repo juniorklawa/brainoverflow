@@ -1,8 +1,3 @@
----
-title: The Never Ending Battle Against Software Complexity
-description: We've all been, or will be in this battle.
-draft: "false"
----
 
 ## What is Complexity?
 
@@ -12,7 +7,7 @@ The book "A Philosophy of Software Design" defines complexity practically:
 
 > "Complexity is anything related to the structure of a software system that makes it hard to understand and modify."
 
-In other words, complexity can take many forms, and doesn't necessary has anything to do with performance, your code can be performant and still be complex
+In other words, complexity can take many forms, and doesnt necessary has anything to do with performance, your code can be performant and still be complex
 
 I'd like to share some key definitions and insights from the book in this article. But first, let's imagine a common situation that probably you’ve already been to…
 
@@ -136,14 +131,12 @@ Because it is incremental, it's easy to think, "just this once, it won't matter.
 > “Everything is a tradeoff in software engineering.”
 > — I don't remember the author
 
-## Conclusion
+# Conclusion
 
-I could write a lot of rules, strategies, and frameworks that you probably already saw on the internet on how to avoid complexity: SOLID, Design Patterns, YAGNI, KISS, etc.
+I could  write a lot of rules, stratategies and frameworks and  that you priobably already saw in the intenert on hjow to avoid complexity: SOLID, Design Patterns, Yagni, KISS etc etc
 
 However, you can unify them all into one guiding principle (as mentioned in "The Pragmatic Programmer."):  **"Is what I am implementing easy to change?"** If the answer is no, then you are probably increasing complexity. 
 
-Ensuring your code is easy to change simplifies maintenance, reduces cognitive load on developers, and makes the system more adaptable and less error-prone.
-
-Thank You!
+Ensuring that your code is easy to change not only simplifies maintenance but also reduces the cognitive load on developers, making the system more adaptable and less error-prone over time.
 
 

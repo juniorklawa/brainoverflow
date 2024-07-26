@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee5ab56aaa7cbfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fac11f52d611007",
+  "active": "ee5ab56aaa7cbfbb",
   "lastOpenFiles": [
-    "content/posts/Software Complexity.md",
-    "content/other/Inactive Projects.md",
-    "content/index.md",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
@@ -163,15 +173,20 @@
     "public/projects/index.html",
     "public/projects/Strackify.html",
     "public/projects/RevisApp-Concursos.html",
-    "content/posts/Some thoughts about Software Complexity.md",
-    "content/projects/Strackify.md",
-    "content/One thing or two about Software Complexity.md",
-    "content/projects/RevisApp Concursos.md",
+    "public/projects/RevisApp---Enem-e-Vestibular.html",
+    "content/posts/The Never Ending Battle Against Software Complexity.md",
+    "content/index.md",
     "content/projects/BrainOverflow.md",
     "content/projects/Codict.md",
-    "content/projects/Marksync.md",
     "content/projects/Interview Bro.md",
+    "content/projects/Strackify.md",
+    "content/projects/RevisApp Concursos.md",
     "content/projects/RevisApp - Enem e Vestibular.md",
+    "content/posts/Software Complexity.md",
+    "content/other/Inactive Projects.md",
+    "content/posts/Some thoughts about Software Complexity.md",
+    "content/One thing or two about Software Complexity.md",
+    "content/projects/Marksync.md",
     "templates/Note Template.md",
     "content/Some thoughts about complexity.md",
     "content/complexity.md",
