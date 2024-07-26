@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/posts/The Never Ending Battle Against Software Complexity.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "ee5ab56aaa7cbfbb",
   "lastOpenFiles": [
+    "content/index.md",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
@@ -173,9 +174,7 @@
     "public/projects/index.html",
     "public/projects/Strackify.html",
     "public/projects/RevisApp-Concursos.html",
-    "public/projects/RevisApp---Enem-e-Vestibular.html",
     "content/posts/The Never Ending Battle Against Software Complexity.md",
-    "content/index.md",
     "content/projects/BrainOverflow.md",
     "content/projects/Codict.md",
     "content/projects/Interview Bro.md",

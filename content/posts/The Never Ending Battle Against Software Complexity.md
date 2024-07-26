@@ -100,12 +100,6 @@ Dependencies are essential in software and cannot be completely eliminated. They
 
 > A dependency exists when code cannot be understood or modified in isolation, requiring consideration or modification of related code.
 
-#### Types of Dependencies:
-
-- **Direct Dependencies:** When a module or class relies directly on another. For example, if Class A calls a method from Class B, Class A is directly dependent on Class B.
-- **Transitive Dependencies:** These occur indirectly. For instance, if Class A depends on Class B, and Class B depends on Class C, then Class A has a transitive dependency on Class C.
-- **Cyclic Dependencies:** These are the worst form of dependencies where a group of modules are interdependent in a circular manner. This can lead to severe maintenance and scalability issues.
-
 ### 2. Obscurity
 
 Obscurity occurs when important information is not obvious. This can make the codebase hard to understand, leading to increased cognitive load and the risk of unknown unknowns.
@@ -114,12 +108,6 @@ Obscurity occurs when important information is not obvious. This can make the co
 
 > Obscurity occurs when important information is not obvious.
 
-#### Examples of Obscurity:
-
-- **Poorly Named Variables and Functions:** Names that do not convey the purpose or usage can lead to confusion. For instance, variables named `x` or `temp` without context.
-- **Hidden Side Effects:** Functions that modify state or perform actions that are not apparent from their signature can introduce obscurity. For example, a method named `calculateTotal` that also updates the database.
-- **Global State:** Overuse of global variables can lead to hidden dependencies and side effects, making the code difficult to understand and predict.
-- **Deep Inheritance Hierarchies:** Inheritance can obscure the actual behavior of classes, especially when behavior is spread across multiple levels of the hierarchy.
 
 ## Remember: Complexity is Incremental
 
