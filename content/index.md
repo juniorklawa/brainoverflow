@@ -11,7 +11,7 @@ Check my:
 
 # Recent Posts
 
-- [[Some thoughts about Software Complexity]]
+- [[The Never Ending Battle Against Software Complexity]]
 
 # Projects
 

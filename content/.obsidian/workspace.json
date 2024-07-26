@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "d865715240be5cfd",
+    "id": "f9f9ec1e12e8c94a",
     "type": "split",
     "children": [
       {
-        "id": "bcb621c2eb814d5a",
+        "id": "0523c1d79fef3f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "1fac11f52d611007",
+            "id": "7b3142c7533931bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fa07f88df37ed62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One thing or two about Software Complexity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6abb79feeb8c16e6",
+    "id": "e3594bdc84af11f5",
     "type": "split",
     "children": [
       {
-        "id": "bc0fa98f7a545b2f",
+        "id": "e77c6c8ed93eeda9",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddca082d1092932",
+            "id": "04dd6d8ed627941f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "12e7f566b8e770be",
+            "id": "516fdb17160753fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "b895341a03f7b2dd",
+            "id": "b1750109ae0c8db2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "2000bcf77555318a",
+    "id": "d845a5c5d7f1b184",
     "type": "split",
     "children": [
       {
-        "id": "46d91f83f7c513da",
+        "id": "d2a605ad95f01d88",
         "type": "tabs",
         "children": [
           {
-            "id": "2e081f2a108a28e0",
+            "id": "0ecb086b6346796f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "One thing or two about Software Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "fcee55dd06fb7d74",
+            "id": "864880f8f1a3e527",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "One thing or two about Software Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32fdfe1639d72c21",
+            "id": "881a5064e6c25804",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "264a9318e675fe9f",
+            "id": "b5ecebd517aa842e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md"
+                "file": "One thing or two about Software Complexity.md"
               }
             }
           }
@@ -146,37 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fac11f52d611007",
+  "active": "6fa07f88df37ed62",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/posts/The Never Ending Battle Against Software Complexity.md",
-    "content/posts/Some thoughts about Software Complexity.md",
-    "public/projects/Strackify.html",
-    "public/other/index.html",
-    "public/other/Inactive-Projects.html",
-    "public/other",
-    "public/Untitled.html",
-    "public/Inactive-Projects.html",
-    "content/projects/Strackify.md",
-    "content/other/Inactive Projects.md",
-    "content/other",
-    "nginx.conf",
-    "public/404.html",
-    "public/index.xml",
-    "content/One thing or two about Software Complexity.md",
-    "content/projects/RevisApp Concursos.md",
-    "content/projects/BrainOverflow.md",
-    "content/projects/Codict.md",
-    "content/projects/Marksync.md",
-    "content/projects/Interview Bro.md",
-    "content/projects/RevisApp - Enem e Vestibular.md",
-    "templates/Note Template.md",
-    "content/Some thoughts about complexity.md",
-    "public/static/og-image.png",
-    "public/static/icon.png",
-    "content/complexity.md",
-    "docs/showcase.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    "index.md",
+    "How to have different returns from the same mock with React Native + Jest.md",
+    "One thing or two about Software Complexity.md"
   ]
 }
