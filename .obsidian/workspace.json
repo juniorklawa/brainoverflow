@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/The Never Ending Battle Against Software Complexity.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "1fac11f52d611007",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/posts/The Never Ending Battle Against Software Complexity.md",
-    "content/posts/Some thoughts about Software Complexity.md",
-    "public/projects/Strackify.html",
-    "public/other/index.html",
-    "public/other/Inactive-Projects.html",
-    "public/other",
-    "public/Untitled.html",
-    "public/Inactive-Projects.html",
-    "content/projects/Strackify.md",
+    "content/posts/Software Complexity.md",
     "content/other/Inactive Projects.md",
-    "content/other",
-    "nginx.conf",
+    "content/index.md",
     "public/404.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
     "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "public/projects/index.html",
+    "public/projects/Strackify.html",
+    "public/projects/RevisApp-Concursos.html",
+    "content/posts/Some thoughts about Software Complexity.md",
+    "content/projects/Strackify.md",
     "content/One thing or two about Software Complexity.md",
     "content/projects/RevisApp Concursos.md",
     "content/projects/BrainOverflow.md",
@@ -172,8 +174,6 @@
     "content/projects/RevisApp - Enem e Vestibular.md",
     "templates/Note Template.md",
     "content/Some thoughts about complexity.md",
-    "public/static/og-image.png",
-    "public/static/icon.png",
     "content/complexity.md",
     "docs/showcase.md",
     "CODE_OF_CONDUCT.md",
